@@ -1,0 +1,9 @@
+.conda/
+.agents/
+.codex/
+data/
+__pycache__/
+*.py[cod]
+*.tmp
+.DS_Store
+Thumbs.db
